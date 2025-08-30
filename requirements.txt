@@ -1,0 +1,9 @@
+diffusers
+transformers
+accelerate
+safetensors
+imageio[ffmpeg]
+gradio
+huggingface_hub
+datasets
+torch
